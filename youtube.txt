@@ -1,0 +1,19 @@
+Getting Started With Python In Cloud 9  :
+
+Making Sure That We're Using Python 3                   https://youtu.be/zLNN4QnZa98
+Executing Python Code                                   https://youtu.be/yGCAhnywJrg
+pip3                                                    https://youtu.be/Vs4LEvVlwxU
+
+
+
+Test Driven Development with Python: (python-tdd folder)
+
+introduction                                            https://youtu.be/nMv3VsiH3M4
+Assertions                                              https://youtu.be/k4mCzILer4M
+
+
+
+
+
+
+
