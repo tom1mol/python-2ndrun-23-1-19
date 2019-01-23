@@ -10,6 +10,8 @@ Test Driven Development with Python: (python-tdd folder)
 
 introduction                                            https://youtu.be/nMv3VsiH3M4
 Assertions                                              https://youtu.be/k4mCzILer4M
+Test After(solution1-counts.py)                         https://youtu.be/_OFJmrLG7L0
+Test Before (evens.py)                                  https://youtu.be/pbKsV189WzI
 
 
 
